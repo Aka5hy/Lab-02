@@ -7,7 +7,8 @@ int main()
     std:: cin >> a >> b;
     std::cout << "A + B = " << a + b << std::endl
               << "A + B = " << a + b << std::endl
-              <<"A * B = " << a * b << std::endl;
+              <<"A * B = " << a * b << std::endl
+              << "A / B = " << a / b << std::endl;
     return 0;
 }
 
